@@ -1,0 +1,46 @@
+
+.perfect{
+    font-size: 50px;
+    font-weight: lighter;
+    align-items: center;
+     margin-left: 100px; 
+}
+ h3{
+    font-weight: lighter;
+}
+
+
+.cardf {
+    display: flex;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+    margin-bottom: 50px;
+  }
+  
+  .cardf-image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-basis: 40%;
+  }
+  
+  .cardf-image {
+    max-width: 100%;
+    height: auto;
+    float: left;
+  }
+  
+  .cardf-content {
+    padding: 20px;
+    flex-basis: 60%;
+  }
+  
+  .cardf-title {
+    margin-top: 0;
+  }
+  
+  .cardf-description {
+    margin-bottom: 0;
+  }
+  

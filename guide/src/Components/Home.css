@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Montserrat:wght@300;400;500;600;700&family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+cards{
+
+    align-items: center;
+        justify-content: center;
+        width: 400px;
+        height: 400px;
+        margin-bottom : 20px;
+        margin-left: 80px;
+        border: 2px solid black;
+        
+    
+    }
+    .cards-title{
+        margin-left: 80px;
+    }
+    
+    .cards-text{
+        
+        display: flex;
+        flex: 1 1 auto;
+        flex-direction: column;
+        padding: 1rem;
+        top: 0;
+        font-weight: lighter;
+        margin-left: 130px;
+        font-family: "Lato" ,sans-serif;
+    }
+    .card-link{
+        text-decoration: none;
+        margin-left: 50px;
+    
+    
+    }
+    
+    .homeimg{
+        display: fixed;
+        width: 50%;
+        height: auto;
+        justify-content: center;
+        align-items: center;
+        margin-left: 150px;
+    
+    }
+
+    
