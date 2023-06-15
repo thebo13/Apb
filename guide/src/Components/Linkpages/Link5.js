@@ -10,7 +10,7 @@ const Link5 = () => {
         <Navbar />
     <div className="container">
     <div className="column">
-    <p className="perfect" style={{marginTop : "170px"}}>Bar Closing - Flushing out beer(Super Cold)</p>
+    <p className="perfect" style={{marginTop : "170px"}}>Bar Closing(Super Cold)</p>
     <br />
     </div>
 
@@ -19,8 +19,8 @@ const Link5 = () => {
 
     <div className="cardf">
       <div className="cardf-image-container">
-      <video width="100%" height="100%" controls poster="link51.webp">
-          <source src="link51.mp4" type="video/mp4" />
+      <video width="100%" height="100%" controls poster="link51a.webp">
+          <source src="link51a.mp4" type="video/mp4" />
         </video>
               </div>
       <div className="cardf-content">
@@ -33,8 +33,8 @@ const Link5 = () => {
      
 <div className="cardf">
       <div className="cardf-image-container">
-      <video width="100%" height="100%" controls poster="link52.webp">
-          <source src="link52.mp4" type="video/mp4" />
+      <video width="100%" height="100%" controls poster="link41a.webp">
+          <source src="link41a.mp4" type="video/mp4" />
         </video>     
          </div>
       <div className="cardf-content">
@@ -47,8 +47,8 @@ const Link5 = () => {
  
     <div className="cardf">
       <div className="cardf-image-container">
-      <video width="100%" height="100%" controls poster="link53.webp">
-          <source src="link53.mp4" type="video/mp4" />
+      <video width="100%" height="100%" controls poster="link42a.webp">
+          <source src="link42a.mp4" type="video/mp4" />
         </video>     
          </div>
       <div className="cardf-content">
@@ -60,8 +60,8 @@ const Link5 = () => {
 
     <div className="cardf">
       <div className="cardf-image-container">
-      <video width="100%" height="100%" controls poster="link54.webp">
-          <source src="link54.mp4" type="video/mp4" />
+      <video width="100%" height="100%" controls poster="link43a.webp">
+          <source src="link43a.mp4" type="video/mp4" />
         </video>      
         </div>
       <div className="cardf-content">
@@ -74,8 +74,8 @@ const Link5 = () => {
 
     <div className="cardf">
       <div className="cardf-image-container">
-      <video width="100%" height="100%" controls poster="link55.webp">
-          <source src="link55.mp4" type="video/mp4" />
+      <video width="100%" height="100%" controls poster="link44a.webp">
+          <source src="link44a.mp4" type="video/mp4" />
         </video>     
          </div>
       <div className="cardf-content">
@@ -88,8 +88,8 @@ const Link5 = () => {
 
     <div className="cardf">
       <div className="cardf-image-container">
-      <video width="100%" height="100%" controls poster="linl56.webp">
-          <source src="link56.mp4" type="video/mp4" />
+      <video width="100%" height="100%" controls poster="link45a.webp">
+          <source src="link45a.mp4" type="video/mp4" />
         </video>      
         </div>
       <div className="cardf-content">
@@ -102,8 +102,8 @@ const Link5 = () => {
 
     <div className="cardf">
       <div className="cardf-image-container">
-      <video width="100%" height="100%" controls poster="link57.webp">
-          <source src="link57.mp4" type="video/mp4" />
+      <video width="100%" height="100%" controls poster="link46a.webp">
+          <source src="link46a.mp4" type="video/mp4" />
         </video>     
          </div>
       <div className="cardf-content">
@@ -116,8 +116,8 @@ const Link5 = () => {
 
     <div className="cardf">
       <div className="cardf-image-container">
-      <video width="100%" height="100%" controls poster="link58.webp">
-          <source src="link58.mp4" type="video/mp4" />
+      <video width="100%" height="100%" controls poster="link47a.webp">
+          <source src="link47a.mp4" type="video/mp4" />
         </video>     
          </div>
       <div className="cardf-content">
@@ -130,8 +130,8 @@ const Link5 = () => {
 
     <div className="cardf">
       <div className="cardf-image-container">
-      <video width="100%" height="100%" controls poster="link59.webp">
-          <source src="link59.mp4" type="video/mp4" />
+      <video width="100%" height="100%" controls poster="link48a.webp">
+          <source src="link48a.mp4" type="video/mp4" />
         </video>     
          </div>
       <div className="cardf-content">
@@ -142,8 +142,8 @@ const Link5 = () => {
 
     <div className="cardf">
       <div className="cardf-image-container">
-      <video width="100%" height="100%" controls poster="link510.webp">
-          <source src="link510.mp4" type="video/mp4" />
+      <video width="100%" height="100%" controls poster="link49a.webp">
+          <source src="link49a.mp4" type="video/mp4" />
         </video>     
          </div>
       <div className="cardf-content">
@@ -155,8 +155,8 @@ const Link5 = () => {
 
     <div className="cardf">
       <div className="cardf-image-container">
-      <video width="100%" height="100%" controls poster="link511.webp">
-          <source src="link511.mp4" type="video/mp4" />
+      <video width="100%" height="100%" controls poster="link410a.webp">
+          <source src="link410a.mp4" type="video/mp4" />
         </video>      
         </div>
       <div className="cardf-content">
@@ -171,8 +171,8 @@ const Link5 = () => {
 
     <div className="cardf">
       <div className="cardf-image-container">
-      <video width="100%" height="100%" controls poster="link512.webp">
-          <source src="link512.mp4" type="video/mp4" />
+      <video width="100%" height="100%" controls poster="link411a.webp">
+          <source src="link411a.mp4" type="video/mp4" />
         </video>     
          </div>
       <div className="cardf-content">
@@ -183,8 +183,8 @@ const Link5 = () => {
 
     <div className="cardf">
       <div className="cardf-image-container">
-      <video width="100%" height="100%" controls poster="link513.webp">
-          <source src="link513.mp4" type="video/mp4" />
+      <video width="100%" height="100%" controls poster="link413.webp">
+          <source src="link413.mp4" type="video/mp4" />
         </video>      
         </div>
       <div className="cardf-content">

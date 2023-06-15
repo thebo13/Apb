@@ -1,14 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato&family=Montserrat:wght@300;400;500;600;700&family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
-cards{
+.cards{
 
-    align-items: center;
+        align-items: center;
         justify-content: center;
-        width: 400px;
-        height: 400px;
         margin-bottom : 20px;
-        margin-left: 80px;
-        border: 2px solid black;
         
     
     }
@@ -40,8 +36,35 @@ cards{
         height: auto;
         justify-content: center;
         align-items: center;
-        margin-left: 150px;
+         margin-left: 30px; 
     
     }
 
-    
+    @media only screen and (max-width: 768px) {
+        .cards {
+            height: auto;
+            align-items: center;
+            justify-content: center;
+          }
+           
+          .cards-title{
+            /* justify-content: center;
+            align-items: center; */
+            margin-right: 50px;
+        }
+          .cards-text{
+            
+            margin-right: 100px;
+            align-items: center;
+            justify-content: center;
+            font-weight: lighter;
+            font-family: "Lato" ,sans-serif;
+        }
+
+        .card-link {
+          font-size: 15px;
+          text-decoration: none;
+        }
+
+       
+      }      

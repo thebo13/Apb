@@ -11,6 +11,8 @@ import Link3 from './Components/Linkpages/Link3';
 import Link5 from './Components/Linkpages/Link5';
 import Link6 from './Components/Linkpages/Link6';
 import Link4 from './Components/Linkpages/Link4';
+import Link8 from './Components/Linkpages/Link8';
+import Link07 from './Components/Linkpages/Link07';
 
 const App = () => {
   return (
@@ -27,6 +29,10 @@ const App = () => {
             <Route path="/link4" element={<Link4 />} />
             <Route path="/link5" element={<Link5 />} />
             <Route path="/link6" element={<Link6 />} />
+            <Route path="/link07" element={<Link07 />} />
+            <Route path="/link8" element={<Link8 />} />
+
+
 
 
           </Routes>

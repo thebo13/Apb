@@ -10,15 +10,15 @@ const Link3 = () => {
         <Navbar />
     <div className="container">
     <div className="column">
-    <p className="perfect" style={{marginTop : "170px"}}>Bar Closing - Flushing out beer(Ice Bank Cooler)</p>
+    <p className="perfect" style={{marginTop : "170px"}}>Changing a CO<sub>2</sub> cylinder(David Dispense System)</p>
     <br />
     </div>
 
     <div className="cardstart" style={{marginTop : "30px"}}>
      <div className="cardf">
       <div className="cardf-image-container">
-      <video width="100%" height="100%" controls poster="link31.webp">
-          <source src="link31.mp4" type="video/mp4" />
+      <video width="100%" height="100%" controls poster="link31a.webp">
+          <source src="link31a.mp4" type="video/mp4" />
         </video>
               </div>
       <div className="cardf-content">
@@ -33,8 +33,8 @@ const Link3 = () => {
      
 <div className="cardf">
       <div className="cardf-image-container">
-      <video width="100%" height="100%" controls poster="link32.webp">
-          <source src="link32.mp4" type="video/mp4" />
+      <video width="100%" height="100%" controls poster="link32a.webp">
+          <source src="link32a.mp4" type="video/mp4" />
         </video>
               </div>
       <div className="cardf-content">
@@ -46,8 +46,8 @@ const Link3 = () => {
  
     <div className="cardf">
       <div className="cardf-image-container">
-      <video width="100%" height="100%" controls poster="link33.webp">
-          <source src="link33.mp4" type="video/mp4" />
+      <video width="100%" height="100%" controls poster="link33a.webp">
+          <source src="link33a.mp4" type="video/mp4" />
         </video>
               </div>
       <div className="cardf-content">
@@ -59,8 +59,8 @@ const Link3 = () => {
 
     <div className="cardf">
       <div className="cardf-image-container">
-      <video width="100%" height="100%" controls poster="link34.webp">
-          <source src="link34.mp4" type="video/mp4" />
+      <video width="100%" height="100%" controls poster="link34a.webp">
+          <source src="link34a.mp4" type="video/mp4" />
         </video>
               </div>
       <div className="cardf-content">
@@ -73,8 +73,8 @@ const Link3 = () => {
 
     <div className="cardf">
       <div className="cardf-image-container">
-      <video width="100%" height="100%" controls poster="link35.webp">
-          <source src="link35.mp4" type="video/mp4" />
+      <video width="100%" height="100%" controls poster="link35a.webp">
+          <source src="link35a.mp4" type="video/mp4" />
         </video>
               </div>
       <div className="cardf-content">
@@ -86,8 +86,8 @@ const Link3 = () => {
 
     <div className="cardf">
       <div className="cardf-image-container">
-      <video width="100%" height="100%" controls poster="link36.webp">
-          <source src="link36.mp4" type="video/mp4" />
+      <video width="100%" height="100%" controls poster="link36a.webp">
+          <source src="link36a.mp4" type="video/mp4" />
         </video>
               </div>
       <div className="cardf-content">
@@ -98,8 +98,8 @@ const Link3 = () => {
 
     <div className="cardf">
       <div className="cardf-image-container">
-      <video width="100%" height="100%" controls poster="link37.webp">
-          <source src="link37.mp4" type="video/mp4" />
+      <video width="100%" height="100%" controls poster="link37a.webp">
+          <source src="link37a.mp4" type="video/mp4" />
         </video>
               </div>
       <div className="cardf-content">
@@ -108,53 +108,8 @@ const Link3 = () => {
       </div>
     </div>
 
-    <div className="cardf">
-      <div className="cardf-image-container">
-      <video width="100%" height="100%" controls poster="link38.webp">
-          <source src="link38.mp4" type="video/mp4" />
-        </video>
-              </div>
-      <div className="cardf-content">
-        <h2 className="cardf-title">Step 8</h2>
-        <p className="cardf-description"><h3>Engage the dispenser by pressing on the button to start the flow of CO2</h3> </p>
-      </div>
-    </div>
-
-    <div className="cardf">
-      <div className="cardf-image-container">
-      <video width="100%" height="100%" controls poster="link39.webp">
-          <source src="link39.mp4" type="video/mp4" />
-        </video>
-              </div>
-      <div className="cardf-content">
-        <h2 className="cardf-title">Step 9</h2>
-        <p className="cardf-description"><h3>Engage the dispenser by pressing on the button to start the flow of CO2</h3> </p>
-      </div>
-    </div>
-
-    <div className="cardf">
-      <div className="cardf-image-container">
-      <video width="100%" height="100%" controls poster="link310.webp">
-          <source src="link310.mp4" type="video/mp4" />
-        </video>
-              </div>
-      <div className="cardf-content">
-        <h2 className="cardf-title">Step 10</h2>
-        <p className="cardf-description"><h3>Engage the dispenser by pressing on the button to start the flow of CO2</h3> </p>
-      </div>
-    </div>
-
-    <div className="cardf">
-      <div className="cardf-image-container">
-      <video width="100%" height="100%" controls poster="link311.webp">
-          <source src="link311.mp4" type="video/mp4" />
-        </video>
-              </div>
-      <div className="cardf-content">
-        <h2 className="cardf-title">Step 11</h2>
-        <p className="cardf-description"><h3>Engage the dispenser by pressing on the button to start the flow of CO2</h3> </p>
-      </div>
-    </div>
+    
+      
     </div>
     </div>
     <Footer />

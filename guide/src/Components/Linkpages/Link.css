@@ -1,6 +1,6 @@
 
 .perfect{
-    font-size: 50px;
+    font-size: 40px;
     font-weight: lighter;
     align-items: center;
      margin-left: 100px; 
@@ -8,6 +8,9 @@
 }
  h3{
     font-weight: lighter;
+}
+h5{
+  font-weight: lighter;
 }
 
 
@@ -50,6 +53,119 @@
   .cardf-description {
     margin-bottom: 0;
   }
+
+  .cardd-content{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #ccc;
+    margin-bottom: 2%;
+  }
+
+  .cardff-title{
+    clear: left;
+    margin-left: 530px;
+  }
+
+  .cardff-substep{
+    display: flex;
+    align-items: flex-start;
+  }
+
+  .cardff-substep-content{
+    padding: 20px;
+    flex-basis: 60%;
+  }
+
+  .cardff-substep-title{
+    margin-top: 0;
+    align-items: flex-start;
+  }
+
+  .cardc{
+    border: 1px solid #ccc;
+    border-radius: 8px;
+
+  }
+  .cardc-content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  
+  }
+  .cardc-body{
+    display: flex;
+    flex-direction: row;
+    /* align-items: center;
+    justify-content: center; */
+  }
+  .cardc-image-container{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+  }
+
+  .cardc-image-container img{
+    width: 50%;
+    height: auto;
+  }
+
+  .row1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .column1{
+    flex: 0 0 50%;
+    padding: 10px;
+  }
+
+  .column1 img{
+      width: 100%;
+      height: auto;
+    }
+
+    .carde {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+
+    }
+    
+    
+    .carde-body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+     
+    }
+    
+    
+    
+    .row2 {
+      display: flex;
+      
+    }
+    
+    .carde-image-container,
+    .carde-video-container {
+      flex: 1;
+      padding: 10px; /* Adjust the spacing between the image and video */
+    }
+    
+    .carde-image-container img ,
+    .carde-video-container video {
+      width: 100%;
+      height: auto;
+    }
+    
+    .cardd-content{
+      border-radius: 8px;
+    }
+     
+    
+  
   @media only screen and (max-width: 768px) {
 
 

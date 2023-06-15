@@ -10,7 +10,7 @@ const Link2 = () => {
         <Navbar />
     <div className="container">
     <div className="column">
-    <p className="perfect" style={{marginTop : "170px"}}>Changing a CO<sub>2</sub> Cylinder (Ice Bank Cooler)</p>
+    <p className="perfect" style={{marginTop : "170px"}}>Changing a CO<sub>2</sub> cylinder (Ice Bank Cooler)</p>
     <br />
     </div>
 
