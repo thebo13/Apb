@@ -11,6 +11,7 @@ const Link07 = () => {
     <div className="container">
     <div className="column">
     <p className="perfect" style={{marginTop : "170px"}}>Daily Bar Operations(DDS)</p>
+    <p>Hello</p>
     <br />
     </div>
 
